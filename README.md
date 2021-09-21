@@ -22,7 +22,9 @@ currently working on **Samsung Software Academy For Youth(SSAFY)**
 learning for **Full stack Developer skills**.
 
 Contact me **ywkim0822@naver.com** or **ywkim0822@gmail.com**
-<br>
+
+<hr>
+
 ### Ability 
 **java** ○ ○ ○ ○ ○ <br><br>
 **HTML** ○ ○ ○ ○ <br><br>
