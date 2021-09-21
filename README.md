@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wonnabe16/wonnabe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm 
+
+currently working on **Samsung Software Academy For Youth(SSAFY)**
+
+learning for **Full stack Developer skills**.
+
+Contact me **ywkim0822@naver.com** or **ywkim0822@gmail.com**
+
+ <br><br><br><br>
+# Ability 
+**java** ○ ○ ○ ○ ○ <br><br>
+**HTML** ○ ○ ○ ○ <br><br>
+**CSS** ○ ○ ○ ○ <br><br>
+**javascript** ○ ○ ○   <br><br>
+**Algorithm** ○ ○  (Learning Now)  <br><br>
