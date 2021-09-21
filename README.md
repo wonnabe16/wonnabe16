@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<br><br>
+
 ### I'm 
 
 currently working on **Samsung Software Academy For Youth(SSAFY)**
@@ -22,8 +22,7 @@ currently working on **Samsung Software Academy For Youth(SSAFY)**
 learning for **Full stack Developer skills**.
 
 Contact me **ywkim0822@naver.com** or **ywkim0822@gmail.com**
-
- <br><br>
+<br>
 ### Ability 
 **java** ○ ○ ○ ○ ○ <br><br>
 **HTML** ○ ○ ○ ○ <br><br>
