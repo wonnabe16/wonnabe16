@@ -30,4 +30,4 @@ Contact me **ywkim0822@naver.com** or **ywkim0822@gmail.com**
 **HTML** ○ ○ ○ ○ <br><br>
 **CSS** ○ ○ ○ ○ <br><br>
 **javascript** ○ ○ ○   <br><br>
-**Algorithm** ○ ○  (Learning Now)  <br><br>
+**Algorithm** ○ ○ ○ (Learning Now)  <br><br>
