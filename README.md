@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
+<!--
 ### I'm 
 
 currently working on **Samsung Software Academy For Youth(SSAFY)**
@@ -31,3 +31,4 @@ Contact me **ywkim0822@naver.com** or **ywkim0822@gmail.com**
 **CSS** ○ ○ ○ ○ <br><br>
 **javascript** ○ ○ ○   <br><br>
 **Algorithm** ○ ○ ○ (Learning Now)  <br><br>
+--> 
